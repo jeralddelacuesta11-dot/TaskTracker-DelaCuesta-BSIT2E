@@ -1,0 +1,6 @@
+target/
+*.class
+taskpilot.db
+taskpilot.db-shm
+taskpilot.db-wal
+.idea/
